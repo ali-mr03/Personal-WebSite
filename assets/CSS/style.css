@@ -395,6 +395,9 @@ header .btn-group {
 .profile-wrapper {
   display: none;
 }
+.blog-text{
+  text-align: justify;
+}
 .blog .wrapper {
   display: flex;
   justify-content: space-between;

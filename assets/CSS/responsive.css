@@ -345,12 +345,16 @@
     color: hsl(235, 86%, 65%);
   }
 
-  .social-link .twitter {
-    color: hsl(203, 89%, 53%);
+  .social-link .linkedin {
+    color: hsl(235, 86%, 65%);
   }
 
-  .social-link .facebook {
-    color: hsl(220, 46%, 48%);
+  .social-link .youtube {
+    color: hsl(235, 86%, 65%);
+  }
+
+  .social-link .whatsapp {
+    color: hsl(235, 86%, 65%);
   }
   .social-link .icon-box:hover {
     background: var(--accent);
